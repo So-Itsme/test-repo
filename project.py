@@ -2,4 +2,4 @@
 a = int(input("enter a number: "))
 b = int(input("enter another number:"))
 sum = a+b
-print(sum, "is the sum of the numbers")
+print( " The sum of the numbers is ",sum)
